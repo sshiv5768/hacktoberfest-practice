@@ -44,7 +44,7 @@ Questions can be asked by raising an `Issue`.
   cd hacktoberfest-practice
 ```
 
-- Make a new branch. Your name would make a good branch because it's unique
+- Make a new branch on your github account. Your name would make a good branch because it's unique
 
 ```
   git checkout -b <name of new branch>
